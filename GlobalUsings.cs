@@ -1,0 +1,10 @@
+global using AutoMapper;
+global using AnimalWeb.Api.Data;
+global using AnimalWeb.Api.Models;
+global using AnimalWeb.Api.Exceptions;
+global using AnimalWeb.Api.Repository;
+global using Microsoft.EntityFrameworkCore;
+global using AnimalWeb.Api.Models.UserModel;
+global using AnimalWeb.Api.Models.AnimalModel;
+global using AnimalWeb.Api.Repository.Responce;
+global using AnimalWeb.Api.Repository.IRepository;
